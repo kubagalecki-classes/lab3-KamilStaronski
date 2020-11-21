@@ -16,7 +16,7 @@ unsigned int transportujFlota(unsigned int towar)
         {
             licznik++;
         }
-        std::cout<<rzutowany<<endl;
+        std::cout<<rzutowany<<std::endl;
         delete nowy_statek;
     }
     std::cout<<std::endl<<"suma = "<<suma<<std::endl;
