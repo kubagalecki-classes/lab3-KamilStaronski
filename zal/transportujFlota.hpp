@@ -23,7 +23,7 @@ unsigned int transportujFlota(unsigned int towar)
     //return suma;
     
     
-    std::cout<<endl<<"zaglowce = "<<licznik<<endl;
+    std::cout<<std::endl<<"zaglowce = "<<licznik<<std::endl;
     return licznik;
 }
 
